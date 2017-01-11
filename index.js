@@ -105,5 +105,6 @@ module.exports = function(gulp, reporter) {
 
         reset();
     });
-
+    
+    return gulp;
 };
